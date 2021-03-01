@@ -9,5 +9,5 @@ public class Main {
         f2.setTuSo(1);
         f2.setMauSo(3);
         Fraction t = f1.add(f2);// f1+f2
-        t.inPhanSo();
+        t.inPhanSo ();
     }

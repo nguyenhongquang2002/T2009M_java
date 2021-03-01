@@ -95,7 +95,7 @@ public class Fraction {
         int b = this.getMauSo()/ft.getMauSo();
         Fraction thuong = new Fraction();
         thuong.setTuSo(a);
-        thuong.setMauSo(b);
+        thuong.setMauSo (b);
         return thuong;
     }
 }
