@@ -1,4 +1,4 @@
-package assignment;
+package assignment.s1;
 
 public class TamGiac {
     double canh1;
@@ -21,7 +21,7 @@ public class TamGiac {
     }
 
     public void setCanh2(double canh2) {
-        this.canh2 = canh2;
+        this. canh2 = canh2;
     }
 
     public double getCanh3() {

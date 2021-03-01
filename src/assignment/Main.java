@@ -1,10 +1,10 @@
-package assignment;
+package assignment.s1;
 
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args){
-        // nhap 3 so tu ban phim
+        // nhap 3 so tu ban phi m
         Scanner sc = new Scanner(System.in);
         System.out.println("Nhap canh 1");
         double a = sc.nextDouble();
